@@ -2,7 +2,10 @@
 
 #### Serve static JSON (or any other data of type string) as an API endpoint to fetch data from for development.
 
+'git clone <this repo>'
 `npm install`
+`npm start test`
+A server on 127.0.0.1 port 8080 must have started. 
 
 > Requirements:
 
