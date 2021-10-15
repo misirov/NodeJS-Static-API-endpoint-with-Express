@@ -2,7 +2,7 @@
 
 #### Serve static JSON (or any other data of type string) as an API endpoint to fetch data from for development.
 
-'git clone <this repo>'
+`git clone <this repo>`
     
 `npm install`
     
